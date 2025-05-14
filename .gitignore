@@ -10,7 +10,6 @@ Terraform/*/terraform-plugin-proxmox.log
 Terraform/*/*/terraform.tfstate*
 Terraform/*/*/terraform-plugin-proxmox.log
 my-stuff/
-inventory/
 Vault/data/
 user-data
 user-data.bak
